@@ -1,0 +1,44 @@
+image: gcc
+
+###################################################################################
+# Linux build
+build-linux:
+  stage: build
+  tags:
+    - build_linux
+  script:
+    - mkdir build
+    - cd build
+    - cmake -DCMAKE_RUNTIME_OUTPUT_DIRECTORY=../bin_linux -DCMAKE_BUILD_TYPE=Release ../
+    - cmake --build . -- -j24
+  #artifacts:
+  #  paths:
+  #   - bin_linux
+
+###################################################################################
+# Windows build
+build-windows:
+  stage: build
+  tags:
+    - build_windows
+  script:
+    - mkdir build
+    - cd build
+    - cmake -DCMAKE_RUNTIME_OUTPUT_DIRECTORY=../bin_win -DCMAKE_TOOLCHAIN_FILE=../cmake/mingw-w64-x86_64.cmake -DCMAKE_BUILD_TYPE=Release ../
+    - cmake --build . -- -j24
+  #artifacts:
+  #  paths:
+  #   - bin_win
+  
+
+#test-job:
+#  stage: test
+#  tags:
+#    - build_linux
+#  script:
+#    - cd build
+#    - ./test_math 
+#  artifacts:
+#    paths:
+#      - build/testreport.md
+      

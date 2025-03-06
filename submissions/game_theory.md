@@ -1,0 +1,13 @@
+TODO: Vastaus tähän
+Käy tekemässä interaktiivinen demo "Evolution of Trust": https://ncase.me/trust/
+Vastaa tekstimuotoisena:
+Kirjoita 10-30 lausetta. Mikä on "voittava strategia" "elämän pelissä"? Perustele miksi.
+Palauta vastaus omaan repoon tiedostoon: submissions/game_theory.md
+
+The game is very easy to understand, and it is very well explained how to play and what happens. In the first game, it's about trust and distrust towards a person you don't know and whose intentions are unclear. Despite the game attempting to sway you towards distrust because it would be rational, I lean towards trust. Distrusting someone you've just met is prejudice against the other person. Having reservations and not trusting completely is the most reasonable approach for me. Otherwise, you become selfish and judge everyone by the same standard, which could lead to problems in work or starting a business.
+
+In the second stage of the game, it tries to show what happens when the same people play the same game for a long time; they end up getting to know each other and creating some kind of connection. In the third round, it demonstrates the behavior of a society. What I have learned is that the kind but naive, as well as the cheaters, are cast out from society so that it can evolve, and intelligent kindness is necessary. This quote reflects this third stage of the game well: "We are punished for our sins, not by them." In this stage of the game, this moral phrase is also true according to mathematics: "Do unto others as you would have them do unto you."
+
+This game is very interesting. It provides data that shows how our society is becoming increasingly distrustful. When 10 people are asked about their close friends, they often say they have none, and one person usually says they have one. This is because we are having fewer interactions with people and more online interactions, which tends to create a certain environment where cheaters and distrust thrive in society. It's a very educational game, and I've been able to reflect on some issues that are problematic nowadays. I am grateful for having had the opportunity to play this game.
+
+I believe that the best strategy for the game of life is to have intelligent kindness and understand that you will encounter people who will cooperate with you, while others will try to deceive you. Some will test your limits, and some may not possess that intelligence but will recognize right from wrong and simply mimic behaviors that are important and necessary to them. It's crucial to have real interactions with many people so that this intelligence can be developed and enable you to make rational and intelligent decisions at any moment in your life.
